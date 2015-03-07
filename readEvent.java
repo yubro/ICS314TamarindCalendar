@@ -12,10 +12,8 @@ class Example {
 		String startDate;
 		String startTime;
 		String endDate;
-		String endTime;
-
-		
-		
+		String endTime;	
+		String newString;
 		
 		System.out.print("Please Enter Title of event: ");
 		title = input.nextLine();
